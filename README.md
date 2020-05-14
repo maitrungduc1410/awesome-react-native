@@ -3,8 +3,8 @@
     Awesome React Native
   </div>
   <div>
-  <a href="https://github.com/maitrungduc1410/react-native-motion-splash" target="_blank">
-    <img src="https://img.shields.io/github/stars/maitrungduc1410/react-native-motion-splash?style=social" />
+  <a href="https://github.com/maitrungduc1410/awesome-react-native" target="_blank">
+    <img src="https://img.shields.io/github/stars/maitrungduc1410/awesome-react-native?style=social" />
   </a>
   
   </div>
