@@ -38,7 +38,7 @@ This repo is created in order to give community latest updates about awesome pro
     </td>
     <td style="text-align: center">
         <a href="https://facebook.github.io/react-native/blog/2017/03/13/better-list-views.html">
-        <img src="icon.png" width="120" height="90" style="
+        <img src="./icon.png" width="120" height="90" style="
             background: #d0d0d0;
             padding: 10px;
         " />
